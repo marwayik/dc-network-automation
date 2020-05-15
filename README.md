@@ -1,1 +1,1 @@
-innitial setup of GIT
+iinnitial setup of GIT
