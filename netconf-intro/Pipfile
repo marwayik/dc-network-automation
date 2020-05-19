@@ -10,8 +10,8 @@ ipython = "*"
 ncclient = "*"
 pyang = "*"
 pyangbind = "*"
-openssl = "*"
-cryptography = "==2.5"
+pyopenssl = "*"
+cryptography = "==2.8"
 
 [requires]
 python_version = "3.5"
